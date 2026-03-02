@@ -5,32 +5,31 @@ The objectives of this section are:
 - Review the needed tools
 - Create a simple ESP32 Blink project with PlatformIO and VS Code
 
+You will be organized in 4 groups. Each group has a director and 2 collaborators
+
 ## **1. Setup the project**
 
-You have to select a local folder to clone the Project repository. 
-- Open Visual Studio Code on this folder
+To work on this seminar you have to:
+- Create a github account: https://github.com/
+- The director has to Fork my [github Project repository](https://github.com/manelpuig/GEB_Projects_tools.git) to his/her github account
+- The Director has to add the Collaborators in the `settings` section
+- Select and open in Visual Studio Code the working local folder (on `Desktop/GEB_Projects`) to clone the Director's github Project repository. 
+- Open a git-bash terminal and clone the Director's github Project repository with the instruction:
+````bash
+git clone https://github.com/director_user_name/GEB_Projects_tools.git
+````
+- In VScode, select `File/Open folder...` and choose the `GEB_Projects_tools` forked repository folder
 
-### First time
-- Open a git terminal and clone the forked github project from Director's repository.
-- add credential information from your github account
-  ````shell
-  git config --global user.email "mail@alumnes.ub.edu" 
-  git config --global user.name "your github username"
-  ````
+Now you are ready to work on Director's local repository project!
 
-### Next times
-- before working on your project you have to update your local repository with last changes on remote github repository:
-  ````shell
-  git pull
-  ````
-- Now you can work on the project locally
-- to update your changes:
-  ````shell
-  git add .
-  git commit -m "your message"
-  git push
-  ````
-- You can check the changes in your github repository
+- To syncronize the changes in your github
+Select “Source control” in left lateral menu bar:
+  - Press Add to synchronize all the changes
+  - Add a commit comment
+  - Push the changes
+  - First time you will be asked to write your credentials to your github account
+
+- You can check the changes in your github repository before shutting-down your computer
 
 ## **2. Review the needed tools**
 
