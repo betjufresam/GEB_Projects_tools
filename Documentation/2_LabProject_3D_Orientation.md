@@ -47,12 +47,12 @@ The proposed tasks for this first session are:
 ![python](././Images/3D_Orientation/VScode_python.png)
 
 - Is the orientation correct? why or why not?
-- Make the necessary corrections in the python code and verify the correct orientation in roboDK virtual environment.
+- Make the necessary corrections in the code and verify the correct orientation in roboDK virtual environment.
 
 ### Laboratory session delivery
 
 You will have to upload a document including:
 
 - your first operating performances diagnostic, 
-- the corrections you have made in the python code
+- the corrections you have made in the code
 - your final conclusions 
