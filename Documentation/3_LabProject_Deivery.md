@@ -1,4 +1,4 @@
-**LAB SESSION 1: Bet Jufresa, Maria Rovira and Carla Dueñas**
+# **LAB SESSION 1: Bet Jufresa, Maria Rovira and Carla Dueñas**
 
 <img width="624" height="245" alt="Screenshot 2026-03-24 at 13 55 21" src="https://github.com/user-attachments/assets/53eea693-4102-4ef3-ba05-e84de67cc016" />
 
